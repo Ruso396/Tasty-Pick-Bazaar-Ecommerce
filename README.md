@@ -1,4 +1,4 @@
-<h1 align="center"> Grocery React</h1>
+<h1 align="center"> Tasty Pick Bazaar</h1>
 
 <p float="left">
  
